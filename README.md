@@ -1,13 +1,15 @@
-
- <h2>✨ A little bit about me </h2>
- 🌎 | Brazilian 🇧🇷 </br>
- 💻 | I'm a Full Stack Developer 👨🏾‍💻 </br>
- 🎮 | A great lover of games and films 📚</br>
- 💖 | A technology and development enthusiast 🔬 </br>
+<img align="right" height="300px" src="https://user-images.githubusercontent.com/78985382/123180079-f2c6dd00-d460-11eb-9af3-8e263e58cedb.png">
+  
+ <h2>✨ Um pouco sobre mim </h2>
+ 🌎 | Brasileiro 🇧🇷 </br>
+ 🏫 | Estudante de analise desenvolvimento sistema🎓 </br>
+ 💻 | Eu sou um desenvolvedor 💻 Full stack 👨🏾‍💻 </br>
+ 🎮 | Um amante de games e filmes 📚</br>
+ 💖 | Um entusiasta de tecnologia e desenvolvimento🔬 </br>
 
 </p>
 
-## 🛠 Languages and Tools:
+## 🛠 Linguagens e ferramentas:
 
 <p>
   <img height="35px" hspace="10px" alt="Reactjs" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">
