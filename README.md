@@ -1,3 +1,12 @@
+
+ <h2>✨ A little bit about me </h2>
+ 🌎 | Brazilian 🇧🇷 </br>
+ 💻 | I'm a Full Stack Developer 👨🏾‍💻 </br>
+ 🎮 | A great lover of games and films 📚</br>
+ 💖 | A technology and development enthusiast 🔬 </br>
+
+</p>
+
 ## 🛠 Languages and Tools:
 
 <p>
