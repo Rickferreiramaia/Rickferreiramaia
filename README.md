@@ -39,6 +39,7 @@
   <a href="https://github.com/Rickferreiramaia/github-readme-stats">
     <img height="160em" align="center" src="https://github-readme-stats.vercel.app/api?username=Rickferreiramaia&show_icons=true&theme=tokyonight" />
   </a>
+ 
   <a href="https://github.com/Rickferreiramaia/convoychat">
     <img height="160em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rickferreiramaia&layout=compact&langs_count=7&theme=tokyonight"/>
   </a>
