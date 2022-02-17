@@ -35,6 +35,8 @@
   <img height="35px" hspace="10px" alt="Firebase" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg">
   <img height="35px" hspace="10px" alt="CSHARP" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg">
 </p>
+
+<h2 align="center"> 🎇 My github stats: 🎇</h2>
 <p align="center">
   <a href="https://github.com/Rickferreiramaia/github-readme-stats">
     <img height="160em" align="center" src="https://github-readme-stats.vercel.app/api?username=Rickferreiramaia&show_icons=true&theme=tokyonight" />
