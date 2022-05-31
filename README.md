@@ -6,7 +6,7 @@
   <a href="https://www.linkedin.com/in/riclecio-ferreira-maia-831912196/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
- <a href="https://known-vegetable.surge.sh/">
+ <a href="https://quarrelsome-metal.surge.sh/">
   <img width="150px" height="28px" src="https://user-images.githubusercontent.com/91157487/169916659-1b9d0723-7d13-4d9c-9d26-342d3953d308.png">
  </a>
   <a href="mailto:riclecioskatesk8@gmail.com">
